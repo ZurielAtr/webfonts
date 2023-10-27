@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Univers';
+    src: url(../FONTS/UniversNextforHSBCW01-Bold.woff2) format('woff2');
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: 'Univers';
+    src: url(../FONTS/UniversNextforHSBCW01-Light.woff2) format('woff2');
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'Univers-4';
+    src: url(../FONTS/UniversNextforHSBCW04-Bold.woff2) format('woff2');
+    font-weight: 800;
+}
+
+@media only screen and (max-width: 600px) {
+    .wrapper {
+      width: 95% !important;
+    }
+  }
+
+h1 {
+    font-family: 'Univers';
+    font-weight: 800
+}
+
+p {
+    font-family: 'Univers';
+    font-weight: 100;
+}
+
+span {
+    font-family: 'Univers-4';
+    font-weight: 800
+}
