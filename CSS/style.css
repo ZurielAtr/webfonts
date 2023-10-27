@@ -32,7 +32,12 @@ p {
     font-weight: 100;
 }
 
-p span {
+a {
+    font-family: 'Univers-4';
+    font-weight: 800;
+}
+
+span {
     font-family: 'Univers-4';
     font-weight: 800
 }
